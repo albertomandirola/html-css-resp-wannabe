@@ -159,4 +159,13 @@ img {
     .why-us .col-right{
         width: 100%;
     }
+    .why-us{
+        background-color: black;
+        padding: 3rem 0;
+        margin: 0;
+    }
+    .steps {
+        margin: 3rem 0 0 0;
+    }
+
  }
