@@ -138,4 +138,20 @@ img {
     .container{
         max-width: 100%;
     }
+    .row{
+        display: block;
+    }
+    .lessons .col{
+        width: 100%;
+
+    }
+    .steps .col{
+        width: 100%;
+    }
+    .why-us .col-left{
+        width: 100%;
+    }
+    .why-us .col-right{
+        width: 100%;
+    }
  }
